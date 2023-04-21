@@ -1,0 +1,2 @@
+### JavaScript Solutions for Codewars.com Challenges
+#### Codewars.com is an online platform that provides coding challenges in various topics. In this project, I will be creating JavaScript solutions for challenges from Codewars.com, focusing on topics such as algorithms, data structures, math, strings, and arrays. The goal of this project is to practice and showcase my JavaScript programming skills by solving challenging problems and improving my problem-solving abilities. 
