@@ -9,3 +9,13 @@ Input will always be a string, e.g., "Friday May 2, 7pm".
 
 Output
 Output will be the shortened string, e.g., "Friday May 2".*/
+
+function shortenDateFormat(dateString) {
+    const date = new Date(dateString);
+    const options = {
+        weekday: 'long',
+        month: 'long',
+        day: 'numeric'
+    };
+    return date.toLocaleString('en-US', options);
+}
